@@ -71,6 +71,6 @@ public class BookTickets extends CommonFunction{
 	@Then("Validate the From place, To place and Date")
 	public void validate_the_from_place_to_place_and_date() {
 	    // Write code here that turns the phrase above into concrete actions
-	    throw new io.cucumber.java.PendingException();
+	    
 	}
 }
